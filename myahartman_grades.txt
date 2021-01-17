@@ -1,0 +1,8 @@
+myasmom
+exam_1 96
+exam_2 65
+assignment1 63
+assignment2 91
+assignment3 90
+midterm1 98
+midterm2 95

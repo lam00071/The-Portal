@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.datastructures"},{"l":"com.datastructures.Dictionaries"},{"l":"com.datastructures.interfaces"},{"l":"com.datastructures.Managers"},{"l":"com.datastructures.Objects"},{"l":"com.datastructures.screens"}]
